@@ -3,12 +3,12 @@
 Name: **Sibtain Sajjad**  
 Roll Number: **25K-6547**
 
-## Lab Objectives
+## UNORDERED LIST
 - Learn GitHub basics
 - Understand Markdown
 - Practice C programming
 
-## Completed Tasks
+### TASK LIST
 - Created GitHub repository
 - Updated README file
 - Added a C program
